@@ -2,4 +2,4 @@
 
 #### Table of content
 
-- [Final test](https://github.com/Moonkid/ios-course/blob/master/final-test/ios-course-final-test.md)
+- [Final test](/final-test/ios-course-final-test.md)
