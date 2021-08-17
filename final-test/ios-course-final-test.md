@@ -1,7 +1,8 @@
 ---
 title: Final Test
 show_downloads: true
-assets_url: https://github.com/Moonkid/ios-course/blob/gh-pages/final-test/assets.zip?raw=true
+download_url: https://github.com/Moonkid/ios-course/blob/gh-pages/final-test/assets.zip?raw=true
+github_url: https://github.com/Moonkid/ios-course/tree/gh-pages/final-test/assets
 ---
 
 ### Goal
