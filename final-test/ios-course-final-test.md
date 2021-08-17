@@ -12,7 +12,9 @@ app home | like animation | skip animation
 
 #### Requirements
 
-Applications home screen contains an endless carousel (or a deck) of cards, each card represents some info about a random person from an API, on a visible card the next info is displayed:
+Application's home screen contains an endless carousel (or a deck) of cards, each card represents some info about a random person from an API.
+
+On a visible card the next info is displayed:
 
 - Full name
 - Age
