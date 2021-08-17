@@ -1,4 +1,7 @@
-## Final Test
+---
+title: Final Test
+assets_url: https://github.com/Moonkid/ios-course/blob/gh-pages/final-test/assets.zip
+---
 
 ### Goal
 
