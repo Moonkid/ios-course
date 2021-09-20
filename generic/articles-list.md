@@ -1,7 +1,6 @@
 ---
 title: Articles List
-show_downloads: false
-github_url: https://github.com/Moonkid/ios-course/tree/gh-pages/final-test/assets
+show_downloads: true
 ---
 
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
