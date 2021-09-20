@@ -30,7 +30,8 @@ On a visible card/cell the next info is displayed:
 - Article source
 - Publish date
 
-When you tap on an article a details screen should be presented modally if article `content` exists
+When you tap on an article a details screen should be presented if article `content` exists.
+
 Article details screen should display next info
 
 - Article image (As a background for a carousel card)
@@ -39,7 +40,7 @@ Article details screen should display next info
 - Publish date
 - Article content
 
-If article doesn't have a `content` to display an article url should be presented using `SafariViewController`.
+If article doesn't have a `content` to display - an article url should be presented using `SafariViewController`.
 
 - Use UIKit or SwiftUI
 - For the horizontal carousel use [Top headlines](https://newsapi.org/docs/endpoints/top-headlines) paginated request
