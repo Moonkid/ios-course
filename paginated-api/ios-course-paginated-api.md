@@ -6,7 +6,7 @@ github_url: https://github.com/Moonkid/ios-course/tree/gh-pages/final-test/asset
 
 ### Goal
 
-Write a "simple" application which displays a news list.
+Write another news feed application which displays a news list.
 
 #### App look
 
